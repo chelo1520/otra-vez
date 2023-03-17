@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: blue;
+  font-size: 3rem;
+  width: 700px;
+  font-wight: bold;
+}
